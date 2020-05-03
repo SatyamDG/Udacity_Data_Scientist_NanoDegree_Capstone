@@ -6,11 +6,11 @@
 #### 1. Installations
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
 
-- pandas
-- numpy
+- pandas [doc](https://pandas.pydata.org/docs/ "doc")
+- numpy [doc](https://numpy.org/doc/ "doc")
 - math
-- json
-- sklearn.model_selection (train_test_split module)
+- json 
+- sklearn.model_selection (train_test_split module) [doc](https://scikit-learn.org/ "doc")
 - sklearn.preprocessing (StandardScaler, PolynomialFeatures)
 - from sklearn.tree (DecisionTreeClassifier,DecisionTreeRegressor)
 - sklearn.ensemble (RandomForestClassifier)
@@ -44,14 +44,15 @@ However, I would regard 75% as acceptable in a business setting, as for informat
 
 #### 3. File Descriptions
 
-This repo contains 4 files. The report of my project is called 'Starbucks_Capstone_notebook.ipynb'. The data used in the project is in the files:
+This repo contains 4 files. The report of my project is called 'Starbucks_Capstone_notebook.ipynb'[Notebook](https://github.com/SatyamDG/Udacity_Data_Scientist_NanoDegree_Capstone/blob/master/data.zip "Notebook"). The data used in the project is in the files:
 
 - portfolio.json
 - profile.json 
 - transcript.json.
 
+To access data click here [data](https://github.com/SatyamDG/Udacity_Data_Scientist_NanoDegree_Capstone/blob/master/data.zip "data")
 
-#### 4. Licensing, Authors, Acknowledgements, etc.
+##### 4. Licensing, Authors, Acknowledgements, etc.
 
 Data for coding project was provided by Udacity.
 Feel Free to use the Code, functions, etc from this repo.
