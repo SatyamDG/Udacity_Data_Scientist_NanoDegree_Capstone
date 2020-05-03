@@ -34,7 +34,7 @@ Three Models are created for below mentioned offer.
 
 The three offers are: **Buy One Get One Free (BOGO)**, **Discount (discount with purchase)**, and **Informational (provides information about products).**
 
-#### As a brief summary of my findings:
+#### Brief summary of findings:
 
 Feature importance given by all 3 models were that the tenure of a member is the biggest predictor of the effectiveness of an offer. Further study would be able to indicate what average tenure days would result in an effective BOGO offer.
 
@@ -55,4 +55,7 @@ To access data click here [data](https://github.com/SatyamDG/Udacity_Data_Scient
 ##### 4. Licensing, Authors, Acknowledgements, etc.
 
 Data for coding project was provided by Udacity.
+
 Feel Free to use the Code, functions, etc from this repo.
+
+[Link](https://medium.com/@gsatyam625/data-science-to-predict-effective-offer-using-starbucks-app-user-data-6774750d5de1 "Link") to Medium Blog
