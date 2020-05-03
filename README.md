@@ -3,7 +3,7 @@
 
 ### Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
 
-##### 1. Installations
+#### 1. Installations
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
 
 - pandas
@@ -21,7 +21,7 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 - matplotlib
 
 
-##### 2. Project Motivation
+#### 2. Project Motivation
 
 This project is the Capstone project of my Data Scientist nanodegree with Udacity. As students in the nanodegree, we have the option to take part in the Starbucks Capstone Challenge. For the challenge, Udacity provided simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
@@ -34,7 +34,7 @@ Three Models are created for below mentioned offer.
 
 The three offers are: **Buy One Get One Free (BOGO)**, **Discount (discount with purchase)**, and **Informational (provides information about products).**
 
-##### As a brief summary of my findings:
+#### As a brief summary of my findings:
 
 Feature importance given by all 3 models were that the tenure of a member is the biggest predictor of the effectiveness of an offer. Further study would be able to indicate what average tenure days would result in an effective BOGO offer.
 
@@ -42,7 +42,7 @@ Decision of using 3 separate models for analysis & to predict the effectiveness 
 
 However, I would regard 75% as acceptable in a business setting, as for informational offers, there is no cost involved to inform users of a product. Meanwhile, an 80% and above accuracy in a business setting would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.
 
-##### 3. File Descriptions
+#### 3. File Descriptions
 
 This repo contains 4 files. The report of my project is called 'Starbucks_Capstone_notebook.ipynb'. The data used in the project is in the files:
 
@@ -51,7 +51,7 @@ This repo contains 4 files. The report of my project is called 'Starbucks_Capsto
 - transcript.json.
 
 
-##### 4. Licensing, Authors, Acknowledgements, etc.
+#### 4. Licensing, Authors, Acknowledgements, etc.
 
 Data for coding project was provided by Udacity.
 Feel Free to use the Code, functions, etc from this repo.
