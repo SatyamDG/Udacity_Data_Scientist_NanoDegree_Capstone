@@ -27,8 +27,8 @@ This project is the Capstone project of my Data Scientist nanodegree with Udacit
 
 In this project, follwoing questions are answered :
 
-- a. What are the main drivers of an effective offer on the Starbucks app?
-- b. Could the data provided, namely offer characteristics and user demographics, predict whether a user would take up an offer?
+-  What are the main drivers of an effective offer on the Starbucks app?
+-  Could the data provided, namely offer characteristics and user demographics, predict whether a user would take up an offer?
 
 Three Models are created for below mentioned offer.
 
@@ -38,7 +38,7 @@ The three offers are: **Buy One Get One Free (BOGO)**, **Discount (discount with
 
 Feature importance given by all 3 models were that the tenure of a member is the biggest predictor of the effectiveness of an offer. Further study would be able to indicate what average tenure days would result in an effective BOGO offer.
 
-Decision of using 3 separate models for analysis & to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models (82.83% for BOGO and 87.35% for discount), while slightly less accurate performance for another informational offers (75.3%).
+Decision of using 3 separate models for analysis & to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models **(82.83% for BOGO and 87.35% for discount)**, while slightly less accurate performance for another **informational offers (75.3%)**.
 
 However, I would regard 75% as acceptable in a business setting, as for informational offers, there is no cost involved to inform users of a product. Meanwhile, an 80% and above accuracy in a business setting would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.
 
