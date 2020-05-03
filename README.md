@@ -1,2 +1,4 @@
 # Udacity_Data_Scientist_NanoDegree_Capstone
-Final Capstone Project for Data Scientist Nano Degree Program
+###### This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
+
+### Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
