@@ -52,7 +52,7 @@ This repo contains 4 files. The report of my project is called 'Starbucks_Capsto
 
 To access data click here [data](https://github.com/SatyamDG/Udacity_Data_Scientist_NanoDegree_Capstone/blob/master/data.zip "data")
 
-##### 4. Licensing, Authors, Acknowledgements, etc.
+#### 4. Licensing, Authors, Acknowledgements, etc.
 
 Data for coding project was provided by Udacity.
 
